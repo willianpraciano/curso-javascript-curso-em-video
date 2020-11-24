@@ -6,13 +6,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/willianpraciano/curso-javascript-curso-em-video">
   
-  <a href="https://github.com/willianpraciano/curso-javascript-curso-em-video
-/commits/master">
+  <a href="https://github.com/willianpraciano/curso-javascript-curso-em-video/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/willianpraciano/curso-javascript-curso-em-video">
   </a>
 
-  <a href="https://github.com/willianpraciano/curso-javascript-curso-em-video
-/issues">
+  <a href="https://github.com/willianpraciano/curso-javascript-curso-em-video/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/willianpraciano/curso-javascript-curso-em-video">
   </a>
 
