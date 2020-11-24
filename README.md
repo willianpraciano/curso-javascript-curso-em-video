@@ -34,24 +34,24 @@ Estes são alguns exercios desenvolvidos durante o curso básico de JavaScript d
 
 
 ## Sobre o curso
-Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos:
+Este é um Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos:
 
-Módulo 01: Conhecendo o JavaScript
-Módulo 02: Comandos básicos do JavaScript
-Módulo 03: Document Object Model
-Módulo 04: Condições em JavaScript
-Módulo 05: Repetições (laços) em JavaScript
-Módulo 06: Avançando nos estudos em JavaScript
+Módulo 01: Conhecendo o JavaScript <br/>
+Módulo 02: Comandos básicos do JavaScript <br/>
+Módulo 03: Document Object Model <br/>
+Módulo 04: Condições em JavaScript <br/>
+Módulo 05: Repetições (laços) em JavaScript <br/>
+Módulo 06: Avançando nos estudos em JavaScript <br/>
 
-O curso está disponível gratuitamente e pode ser acessado pelo [YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1).
+O curso está disponível gratuitamente através do [YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1).
 
 ## Sobre o professor
 
-Gustavo Guanabara.
+Nome - [Gustavo Guanabara](https://about.me/guanabara)
+
+Site - [cursoemvideo.com](https://www.cursoemvideo.com/)
 
 YouTube - [/user/cursosemvideo](https://www.youtube.com/user/cursosemvideo)
-
-Site - https://www.cursoemvideo.com/
 
 ## Meta
 
